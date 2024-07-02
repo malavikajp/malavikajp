@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi there👋, I'm Malavika J </h1>
+<h2 align="center">✨Aspiring Game Developer</h2>
 
-<!--
-**malavikajp/malavikajp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👀 I’m a BTech student at Adi Shankara Institute Of Engineering And Technology.
+- 🔭 I’m currently working on honing my skills in Game Development.
+- 🌱 I’m currently learning Game Development.
+- 📫 How to reach me: malavikajp2020@gmail.com 
+- 😄 Pronouns: She/Her
 
-Here are some ideas to get you started:
+ <hr/>
+ 
+<h3>🚀Let's combine our skills to create something extraordinary.</h3>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin: Malavika](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/malavika-jayaprakash-1a8548292/)](https://www.linkedin.com/in/malavika-jayaprakash-1a8548292/)
+[![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malavikajp)
+
+<hr/>
+
+<div align="center">
+  
+## 🏆 GitHub Trophies
+<div align="center">
+ 
+![](https://github-profile-trophy.vercel.app/?username=malavikajp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+<hr/>
+
+## 💬 Languages and Tools
+
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,py,java,flutter" />
+  </a>
+</p>
+ 
+ <hr/>
+
+ ## 🧰 &nbsp;Github stats
+<div align="center">
+ 
+![](https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=malavikajp&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+</div>
+<hr/>
+
+## 🔥 GitHub Streak
+<div align="center">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=malavikajp&theme=radical&hide_border=false)<br/>
+</div>
+<hr/>
+
+##  📫 Top Languages Used
+
+<div align="center">
+ 
+![](https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=malavikajp&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+
+</div>
+</div>
