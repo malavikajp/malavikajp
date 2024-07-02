@@ -33,7 +33,7 @@
 
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,java,flutter" />
+    <img src="https://skillicons.dev/icons?i=c,java,flutter" />
   </a>
 </p>
  
