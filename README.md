@@ -1,11 +1,11 @@
 <h1 align="center">Hi there👋, I'm Malavika J </h1>
 <h2 align="center">✨Aspiring Game Developer</h2>
 
-- 👀 I’m a BTech student at Adi Shankara Institute Of Engineering And Technology.
-- 🔭 I’m currently working on honing my skills in Game Development.
+- 👩🏻‍💻 I’m a BTech student at Adi Shankara Institute Of Engineering And Technology.
+- 📈 My current endeavor involves enhancing my Game Development skills.
 - 🌱 I’m currently learning Game Development.
 - 📫 How to reach me: malavikajp2020@gmail.com 
-- 😄 Pronouns: She/Her
+- 🌚🌝 Pronouns: She/Her
 
  <hr/>
  
@@ -17,7 +17,6 @@
 
 <hr/>
 
-<div align="center">
   
 ## 🏆 GitHub Trophies
 <div align="center">
@@ -26,6 +25,9 @@
 
 </div>
 <hr/>
+
+<div align="center">
+
 
 ## 💬 Languages and Tools
 
