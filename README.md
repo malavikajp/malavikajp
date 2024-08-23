@@ -1,5 +1,4 @@
 <h1 align="center">Hi there👋, I'm Malavika J </h1>
-<h2 align="center">✨Aspiring Game Developer</h2>
 
 - 👩🏻‍💻 I’m a BTech student at Adi Shankara Institute Of Engineering And Technology.
 - 📈 My current endeavor involves enhancing my Game Development skills.
