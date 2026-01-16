@@ -1,10 +1,20 @@
-<h1 align="center">Hi there👋, I'm Malavika J </h1>
+<h1 align="center">Hi there 👋, I'm Malavika J</h1>
 
-- 👩🏻‍💻 I’m a BTech student at Adi Shankara Institute Of Engineering And Technology.
-- 📫 How to reach me: malavikajp2020@gmail.com 
-- 🌚🌝 Pronouns: She/Her
+<p align="center">
+  A Computer Science undergraduate exploring where technology meets people ✨
+</p>
 
- <hr/>
+<hr/>
+
+- 🎓 BTech student at **Adi Shankara Institute of Engineering and Technology**
+- 🌱 Exploring different areas of technology to find what truly fits me
+- 🤝 Actively involved in **NSS & NRPF**, focusing on leadership and community impact
+- 🧠 Interested in **technology, problem understanding, coordination, and real-world applications**
+- 🎵 Enjoys **dancing, designing, reading, music and travelling**
+- 📫 Reach me at: **malavikajp2020@gmail.com**
+- 🌚🌝 Pronouns: **She/Her**
+
+
  
 <h3>🚀Let's combine our skills to create something extraordinary.</h3>
 <br>
