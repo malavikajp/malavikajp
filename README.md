@@ -6,7 +6,7 @@
 
 <hr/>
 
-- 🎓 BTech student at **Adi Shankara Institute of Engineering and Technology**
+- 🎓 Computer Science graduate from **Adi Shankara Institute of Engineering and Technology**
 - 🌱 Exploring different areas of technology to find what truly fits me
 - 🤝 Actively involved in **NSS & NRPF**, focusing on leadership and community impact
 - 🧠 Interested in **technology, problem understanding, coordination, and real-world applications**
